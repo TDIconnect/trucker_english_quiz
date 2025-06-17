@@ -69,6 +69,13 @@
       transition: left 0.4s ease;
     }
   </style>
+  <link rel="manifest" href="/trucker-english-game/manifest.json">
+  <meta name="theme-color" content="#b80000">
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/trucker-english-game/service-worker.js');
+    }
+  </script>
 </head>
 <body>
   <h1>🚛 Trucker English Game</h1>
