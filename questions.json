@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What does a red traffic light mean?",
+    "options": [
+      "Stop",
+      "Go",
+      "Slow down",
+      "Speed up"
+    ],
+    "answer": 0,
+    "explanation": "Red means stop until the light turns green.",
+    "category": "Compliance & Safety"
+  },
+  {
+    "question": "What is the Bill of Lading?",
+    "options": [
+      "A menu",
+      "A fuel receipt",
+      "A shipping document",
+      "An insurance policy"
+    ],
+    "answer": 2,
+    "explanation": "The Bill of Lading is a document that lists the cargo and acts as a receipt.",
+    "category": "Paperwork & Permits"
+  }
+]
